@@ -2,7 +2,7 @@
 + Projected Graduation in 2025
 + Have done Computer Science
 + Have done photography
-Don't know much else about programming
++ Don't know much else about programming
 ## Term 1
 
 ## Term 2
