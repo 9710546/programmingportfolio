@@ -12,3 +12,8 @@
 ## Term 2
 ## Calculator
 (![Screenshot 2024-11-06 at 12 33 08 PM](https://github.com/user-attachments/assets/613e320f-4b69-41a3-98e6-d87306105206)
+
+
+### SpaceGame
+Description: OOP solution for a collison based space game.
+![](![Screenshot 2024-11-25 at 11 34 02 AM](https://github.com/user-attachments/assets/07be19dc-4ae4-42ee-997f-0b455ce17676)
