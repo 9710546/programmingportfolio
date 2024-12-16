@@ -2,6 +2,8 @@
 
 # Email: 9710546@graniteschools.org
 
+# No tech certifications earned besides Computer Programming
+
 + Projected Graduation in 2025
 + Have done Computer Science
 + Have done photography
