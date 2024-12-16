@@ -2,6 +2,9 @@
 
 # Email: 9710546@graniteschools.org
 
+(![Exam summary.pdf](https://github.com/user-attachments/files/18156155/Exam.summary.pdf)
+
+
 # No tech certifications earned besides Computer Programming
 
 + Projected Graduation in 2025
